@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyb55a5876e1144-staging-183259-authRole",
+      "UnauthRoleArn": "arn:aws:iam::096214855722:role/amplify-amplifyb55a5876e1144-staging-183259-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::096214855722:role/amplify-amplifyb55a5876e1144-staging-183259-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifyb55a5876e1144-staging-183259-deployment",
+      "UnauthRoleName": "amplify-amplifyb55a5876e1144-staging-183259-unauthRole",
+      "StackName": "amplify-amplifyb55a5876e1144-staging-183259",
+      "StackId": "arn:aws:cloudformation:us-east-1:096214855722:stack/amplify-amplifyb55a5876e1144-staging-183259/4a516160-dd7a-11ee-a087-0e9de17a8061",
+      "AmplifyAppId": "dnwmwfdxfyhly"
+    },
+    "categories": {
+      "auth": {
+        "climateassistant1575ad61": {}
+      }
+    }
+  }
+}

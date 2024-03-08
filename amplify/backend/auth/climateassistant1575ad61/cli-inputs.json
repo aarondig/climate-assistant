@@ -1,0 +1,45 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "climateassistant1575ad61_identitypool_1575ad61",
+    "allowUnauthenticatedIdentities": false,
+    "resourceNameTruncated": "climat1575ad61",
+    "userPoolName": "climateassistant1575ad61_userpool_1575ad61",
+    "autoVerifiedAttributes": [
+      "email"
+    ],
+    "mfaConfiguration": "OFF",
+    "mfaTypes": [
+      "SMS Text Message"
+    ],
+    "smsAuthenticationMessage": "Your authentication code is {####}",
+    "smsVerificationMessage": "Your verification code is {####}",
+    "emailVerificationSubject": "Your verification code",
+    "emailVerificationMessage": "Your verification code is {####}",
+    "defaultPasswordPolicy": false,
+    "passwordPolicyMinLength": 8,
+    "passwordPolicyCharacters": [],
+    "requiredAttributes": [
+      "email"
+    ],
+    "aliasAttributes": [],
+    "userpoolClientGenerateSecret": false,
+    "userpoolClientRefreshTokenValidity": 30,
+    "userpoolClientWriteAttributes": [
+      "email"
+    ],
+    "userpoolClientReadAttributes": [
+      "email"
+    ],
+    "userpoolClientLambdaRole": "climat1575ad61_userpoolclient_lambda_role",
+    "userpoolClientSetAttributes": false,
+    "sharedId": "1575ad61",
+    "resourceName": "climateassistant1575ad61",
+    "authSelections": "identityPoolAndUserPool",
+    "useDefault": "default",
+    "userPoolGroupList": [],
+    "serviceName": "Cognito",
+    "usernameCaseSensitive": false,
+    "useEnabledMfas": true
+  }
+}
