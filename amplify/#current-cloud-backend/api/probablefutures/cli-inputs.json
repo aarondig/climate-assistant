@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/pf": {
+      "name": "/pf",
+      "lambdaFunction": "probablefutures",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

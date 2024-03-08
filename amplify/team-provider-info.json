@@ -16,7 +16,14 @@
         "climateassistant1575ad61": {}
       },
       "api": {
-        "climateassistant": {}
+        "climateassistant": {},
+        "probablefutures": {}
+      },
+      "function": {
+        "probablefutures": {
+          "deploymentBucketName": "amplify-amplifyb55a5876e1144-staging-183259-deployment",
+          "s3Key": "amplify-builds/probablefutures-6d585a744b4337776430-build.zip"
+        }
       }
     }
   }

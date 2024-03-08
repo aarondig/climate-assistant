@@ -26,6 +26,13 @@ const App = ({ signOut }) => {
 
   useEffect(() => {
     fetchNotes();
+    console.log(client)
+    // const get = async () => {
+    //   const data = await client.graphql({ query: listNotes });
+    //   console.log(data)
+    // }
+    
+  
   }, []);
 
   async function fetchNotes() {
