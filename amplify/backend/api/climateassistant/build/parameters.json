@@ -1,7 +1,0 @@
-{
-    "AppSyncApiName": "climateassistant",
-    "DynamoDBBillingMode": "PAY_PER_REQUEST",
-    "DynamoDBEnableServerSideEncryption": false,
-    "S3DeploymentBucket": "amplify-amplifyb55a5876e1144-staging-183259-deployment",
-    "S3DeploymentRootKey": "amplify-appsync-files/e3782085d8690d7ead9fc4657d11d5f316402903"
-}
